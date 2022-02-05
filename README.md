@@ -3,4 +3,4 @@
 ## How to create graphs
     Please see bfs.py
 ## LICENSE
-https://www.apache.org/licenses/
+[apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
