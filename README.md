@@ -1,2 +1,4 @@
 # Breath_First_Search
-bfs library
+    bfs library for graphs
+## How to create graphs
+    Please see bfs.py
