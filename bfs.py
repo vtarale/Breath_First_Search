@@ -9,7 +9,7 @@ class Node:
     def set_parent(self, parent):
         self.parent = parent
     def add(self, node):
-        self.append(node)
+        self.n.append(node)
 
 class Queue:
     def __init__(self):
